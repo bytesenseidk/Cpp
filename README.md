@@ -2,6 +2,7 @@
 - Fibonacci calculator
 - Function overload example
 - Palindrome checker
+- Parameter passing
 
 ### Results:
     Fibonacci Class:
@@ -16,3 +17,9 @@
     Palindrome Class:
     71417 is a palindrome!
     12345 is not a palindrome!
+
+    ParameterPassing Class:
+    This parameter is passed by value: 1
+    The memory allocation of the parameter: 0x62fe60
+    This parameter is passed by reference: 1
+    The memory allocation of the parameter: 0x62fe60

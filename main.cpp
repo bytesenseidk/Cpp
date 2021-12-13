@@ -30,5 +30,10 @@ int main() {
     cout << palin.palindrome() << endl;
     cout << "\n";
 
+    cout << "ParameterPassing Class:" << endl;
+    int par = 1;
+    Parameters::byVal(par);
+    Parameters::byRef(&par);
+
     return 0;
 }
