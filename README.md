@@ -19,7 +19,7 @@
     12345 is not a palindrome!
 
     ParameterPassing Class:
-    This parameter is passed by value: 1
+    This parameter is passed by value: 17
     The memory allocation of the parameter: 0x62fe60
-    This parameter is passed by reference: 1
+    This parameter is passed by reference: 17
     The memory allocation of the parameter: 0x62fe60
