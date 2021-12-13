@@ -1,0 +1,3 @@
+C:/Users/Anonymous/Desktop/Software/Cpp/Minor/cmake-build-debug/CMakeFiles/Minor.dir
+C:/Users/Anonymous/Desktop/Software/Cpp/Minor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Anonymous/Desktop/Software/Cpp/Minor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
