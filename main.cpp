@@ -31,9 +31,8 @@ int main() {
     cout << "\n";
 
     cout << "ParameterPassing Class:" << endl;
-    int par = 1;
-    Parameters::byVal(par);
-    Parameters::byRef(&par);
+    Parameters::byVal(num0);
+    Parameters::byRef(&num0);
 
     return 0;
 }
