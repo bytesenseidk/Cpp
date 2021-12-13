@@ -1,6 +1,7 @@
 # Minor C++ Projects
 - Fibonacci calculator
-- Function overload
+- Function overload example
+- Palindrome checker
 
 ### Results:
     Fibonacci Class:
