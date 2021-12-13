@@ -1,8 +1,8 @@
 # Minor C++ Projects
-- Fibonacci calculator
-- Function overload example
-- Palindrome checker
-- Parameter passing
+- Fibonacci Calculator
+- Function Overload Example
+- Palindrome Checker
+- Parameter Passing
 
 ### Results:
     Fibonacci Class:
